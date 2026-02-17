@@ -1,0 +1,131 @@
+{
+  "vague_terms": [
+    "eco-friendly", "green", "natural", "sustainable", "environmentally friendly",
+    "earth-friendly", "planet-friendly", "eco-conscious", "eco", "bio",
+    "chemical-free", "non-toxic", "pure", "clean", "fresh",
+    "responsibly sourced", "ethically made", "conscious", "mindful",
+    "better for the planet", "kind to nature", "earth-safe"
+  ],
+  
+  "misleading_qualifiers": [
+    "up to", "helps", "contributes to", "supports", "assists",
+    "promotes", "encourages", "may", "can", "might",
+    "working towards", "committed to", "striving for", "aiming for",
+    "virtually", "nearly", "almost", "essentially", "practically"
+  ],
+  
+  "percentage_claims": [
+    "100% natural", "100% organic", "100% pure", "100% eco-friendly",
+    "99% natural", "all natural", "fully natural", "completely natural",
+    "100% recyclable", "100% biodegradable", "100% sustainable"
+  ],
+  
+  "unsubstantiated_claims": [
+    "carbon neutral", "carbon negative", "net zero", "climate neutral",
+    "plastic-free", "waste-free", "zero waste", "pollution-free",
+    "cruelty-free", "ethically sourced", "fair trade", "responsibly made",
+    "ocean-friendly", "reef-safe", "marine-safe"
+  ],
+  
+  "time_evasion": [
+    "by 2030", "by 2050", "in the future", "soon", "eventually",
+    "working towards", "on track to", "planning to", "intending to",
+    "committed to achieving", "aiming to reach", "goal of"
+  ],
+  
+  "nature_imagery_terms": [
+    "from nature", "nature-inspired", "harvested naturally",
+    "sun-powered", "wind-powered", "earth-derived",
+    "plant-based", "botanical", "herbal", "derived from plants"
+  ],
+  
+  "certification_mimicry": [
+    "eco-certified", "green-certified", "sustainably certified",
+    "environmentally certified", "approved", "verified",
+    "tested", "proven", "validated", "endorsed"
+  ],
+  
+  "brownwashing_indicators": [
+    "offset", "compensate", "neutralize", "balance",
+    "minimal impact", "reduced impact", "lower emissions",
+    "cleaner than", "less harmful", "improved from",
+    "selective disclosure", "partial reporting"
+  ],
+  
+  "bluewashing_terms": [
+    "empowering communities", "supporting local artisans",
+    "giving back", "social impact", "community-driven",
+    "fair wages", "ethical labor", "worker welfare",
+    "diversity and inclusion", "social responsibility"
+  ],
+  
+  "red_flag_phrases": [
+    "proprietary blend", "secret formula", "patented process",
+    "independent testing", "clinical studies show",
+    "scientifically proven", "laboratory tested",
+    "as recommended by", "trusted by experts"
+  ],
+  
+  "certification_terms_requiring_verification": [
+    "organic", "USDA Organic", "EU Organic", "certified organic",
+    "Fair Trade", "Fair Trade Certified", "Rainforest Alliance",
+    "FSC", "Forest Stewardship Council", "PEFC",
+    "Energy Star", "EPA Safer Choice", "Green Seal",
+    "Cradle to Cradle", "B Corp", "Carbon Trust",
+    "LEED", "BREEAM", "EcoCert", "OEKO-TEX",
+    "Marine Stewardship Council", "MSC", "ASC",
+    "Leaping Bunny", "PETA Approved", "Vegan Society",
+    "Climate Neutral", "CarbonNeutral", "1% for the Planet"
+  ],
+  
+  "specificity_lacking": [
+    "environmentally preferable", "eco-superior", "greener choice",
+    "better alternative", "improved formula", "enhanced sustainability",
+    "reduced footprint", "lower impact", "more sustainable"
+  ],
+  
+  "hidden_tradeoffs": [
+    "recyclable packaging", "biodegradable", "compostable",
+    "made from recycled materials", "post-consumer content",
+    "renewable energy", "solar-powered facility"
+  ],
+  
+  "false_urgency": [
+    "limited edition", "eco-collection", "green line",
+    "sustainability range", "conscious collection",
+    "earth month special", "environmental series"
+  ],
+  
+  "greenwashing_patterns": {
+    "hidden_tradeoff": "Emphasizing one green attribute while hiding other environmental harms",
+    "no_proof": "Environmental claims without accessible supporting evidence",
+    "vagueness": "Broad, poorly defined claims like 'all-natural'",
+    "false_labels": "Creating fake certifications or misleading imagery",
+    "irrelevance": "Truthful but unhelpful claims (e.g., 'CFC-free' when CFCs are banned)",
+    "lesser_of_evils": "Being greener than alternatives but still harmful",
+    "fibbing": "Outright false environmental claims"
+  },
+  
+  "suspicious_combinations": [
+    ["natural", "synthetic"],
+    ["organic", "pesticide"],
+    ["sustainable", "single-use"],
+    ["eco-friendly", "plastic"],
+    ["carbon-neutral", "no verification"],
+    ["100%", "natural"],
+    ["chemical-free", "contains"],
+    ["non-toxic", "warning"]
+  ],
+  
+  "measurement_evasion": [
+    "significant", "substantial", "considerable", "notable",
+    "meaningful", "major", "impressive", "dramatic",
+    "remarkable", "extraordinary", "unprecedented"
+  ],
+  
+  "scope_ambiguity": [
+    "our products", "this line", "select items",
+    "certain operations", "some facilities", "specific processes",
+    "parts of our supply chain", "portions of our business"
+  ]
+}
