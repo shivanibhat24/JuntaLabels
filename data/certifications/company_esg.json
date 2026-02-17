@@ -1,0 +1,204 @@
+{
+  "environmental_certifications": {
+    "USDA_Organic": {
+      "name": "USDA Organic",
+      "issuer": "United States Department of Agriculture",
+      "category": "organic",
+      "verification_url": "https://www.ams.usda.gov/about-ams/programs-offices/national-organic-program",
+      "criteria": "95%+ organic ingredients, strict farming practices",
+      "logo_keywords": ["USDA", "Organic", "certified organic"],
+      "trustworthy": true,
+      "scope": "Food, fiber, and feed products"
+    },
+    "EU_Ecolabel": {
+      "name": "EU Ecolabel",
+      "issuer": "European Commission",
+      "category": "environmental",
+      "verification_url": "https://environment.ec.europa.eu/topics/circular-economy/eu-ecolabel",
+      "criteria": "Reduced environmental impact across lifecycle",
+      "logo_keywords": ["EU Ecolabel", "European Ecolabel", "flower logo"],
+      "trustworthy": true,
+      "scope": "Products and services"
+    },
+    "FSC": {
+      "name": "Forest Stewardship Council",
+      "issuer": "Forest Stewardship Council",
+      "category": "forestry",
+      "verification_url": "https://fsc.org",
+      "criteria": "Responsible forest management",
+      "logo_keywords": ["FSC", "Forest Stewardship Council", "checkmark tree"],
+      "trustworthy": true,
+      "scope": "Wood and paper products"
+    },
+    "Energy_Star": {
+      "name": "Energy Star",
+      "issuer": "U.S. Environmental Protection Agency",
+      "category": "energy",
+      "verification_url": "https://www.energystar.gov",
+      "criteria": "Superior energy efficiency",
+      "logo_keywords": ["Energy Star", "EPA", "energy efficiency"],
+      "trustworthy": true,
+      "scope": "Appliances, electronics, buildings"
+    },
+    "Fair_Trade": {
+      "name": "Fair Trade Certified",
+      "issuer": "Fair Trade USA",
+      "category": "social",
+      "verification_url": "https://www.fairtradecertified.org",
+      "criteria": "Fair wages, safe conditions, environmental standards",
+      "logo_keywords": ["Fair Trade", "Fairtrade", "FT"],
+      "trustworthy": true,
+      "scope": "Agricultural products, apparel, home goods"
+    },
+    "Rainforest_Alliance": {
+      "name": "Rainforest Alliance Certified",
+      "issuer": "Rainforest Alliance",
+      "category": "agricultural",
+      "verification_url": "https://www.rainforest-alliance.org",
+      "criteria": "Sustainable agriculture, forest conservation",
+      "logo_keywords": ["Rainforest Alliance", "green frog", "certified"],
+      "trustworthy": true,
+      "scope": "Agricultural products, forestry"
+    },
+    "Green_Seal": {
+      "name": "Green Seal",
+      "issuer": "Green Seal Inc.",
+      "category": "environmental",
+      "verification_url": "https://greenseal.org",
+      "criteria": "Reduced environmental impact, health standards",
+      "logo_keywords": ["Green Seal", "GS certified"],
+      "trustworthy": true,
+      "scope": "Cleaning products, paper, food services"
+    },
+    "Cradle_to_Cradle": {
+      "name": "Cradle to Cradle Certified",
+      "issuer": "Cradle to Cradle Products Innovation Institute",
+      "category": "circular_economy",
+      "verification_url": "https://www.c2ccertified.org",
+      "criteria": "Material health, circularity, renewable energy",
+      "logo_keywords": ["Cradle to Cradle", "C2C", "certified"],
+      "trustworthy": true,
+      "scope": "Consumer products, building materials"
+    },
+    "B_Corp": {
+      "name": "Certified B Corporation",
+      "issuer": "B Lab",
+      "category": "corporate",
+      "verification_url": "https://www.bcorporation.net",
+      "criteria": "Social, environmental, accountability standards",
+      "logo_keywords": ["B Corp", "Certified B Corporation", "B Lab"],
+      "trustworthy": true,
+      "scope": "Companies"
+    },
+    "LEED": {
+      "name": "LEED Certification",
+      "issuer": "U.S. Green Building Council",
+      "category": "building",
+      "verification_url": "https://www.usgbc.org/leed",
+      "criteria": "Green building design and construction",
+      "logo_keywords": ["LEED", "Leadership in Energy", "certified"],
+      "trustworthy": true,
+      "scope": "Buildings and communities"
+    },
+    "Carbon_Trust": {
+      "name": "Carbon Trust Standard",
+      "issuer": "Carbon Trust",
+      "category": "carbon",
+      "verification_url": "https://www.carbontrust.com",
+      "criteria": "Measured carbon footprint reduction",
+      "logo_keywords": ["Carbon Trust", "carbon reduction"],
+      "trustworthy": true,
+      "scope": "Organizations, products"
+    },
+    "MSC": {
+      "name": "Marine Stewardship Council",
+      "issuer": "Marine Stewardship Council",
+      "category": "fisheries",
+      "verification_url": "https://www.msc.org",
+      "criteria": "Sustainable fishing practices",
+      "logo_keywords": ["MSC", "Marine Stewardship", "blue fish"],
+      "trustworthy": true,
+      "scope": "Seafood products"
+    },
+    "OEKO_TEX": {
+      "name": "OEKO-TEX Standard 100",
+      "issuer": "OEKO-TEX Association",
+      "category": "textile",
+      "verification_url": "https://www.oeko-tex.com",
+      "criteria": "Harmful substance testing in textiles",
+      "logo_keywords": ["OEKO-TEX", "Standard 100", "confidence in textiles"],
+      "trustworthy": true,
+      "scope": "Textiles and fabrics"
+    },
+    "Leaping_Bunny": {
+      "name": "Leaping Bunny",
+      "issuer": "Cruelty Free International",
+      "category": "animal_welfare",
+      "verification_url": "https://www.leapingbunny.org",
+      "criteria": "No animal testing",
+      "logo_keywords": ["Leaping Bunny", "cruelty free"],
+      "trustworthy": true,
+      "scope": "Cosmetics, personal care"
+    },
+    "EPA_Safer_Choice": {
+      "name": "EPA Safer Choice",
+      "issuer": "U.S. Environmental Protection Agency",
+      "category": "chemical",
+      "verification_url": "https://www.epa.gov/saferchoice",
+      "criteria": "Safer chemical ingredients",
+      "logo_keywords": ["EPA Safer Choice", "safer choice"],
+      "trustworthy": true,
+      "scope": "Cleaning products, automotive"
+    }
+  },
+  
+  "questionable_certifications": {
+    "self_created": [
+      "Eco-Certified", "Green Approved", "Sustainably Verified",
+      "Earth-Friendly Certified", "Nature Approved", "Planet Safe",
+      "Environmentally Certified", "Green Certified", "Eco-Approved"
+    ],
+    "vague_certifications": [
+      "Certified Natural", "Pure Product", "Clean Certified",
+      "Trusted Eco", "Green Standard", "Environmental Excellence"
+    ]
+  },
+  
+  "banned_substances": {
+    "REACH": {
+      "name": "REACH Regulation",
+      "region": "European Union",
+      "substances": ["Lead in consumer products", "Mercury", "Cadmium", "Phthalates"],
+      "url": "https://echa.europa.eu/regulations/reach"
+    },
+    "RoHS": {
+      "name": "Restriction of Hazardous Substances",
+      "region": "European Union",
+      "substances": ["Lead", "Mercury", "Cadmium", "Hexavalent chromium"],
+      "url": "https://ec.europa.eu/environment/topics/waste-and-recycling/rohs-directive"
+    },
+    "Prop_65": {
+      "name": "California Proposition 65",
+      "region": "California, USA",
+      "substances": ["Benzene", "Formaldehyde", "Lead", "BPA"],
+      "url": "https://oehha.ca.gov/proposition-65"
+    }
+  },
+  
+  "verification_indicators": {
+    "required_elements": [
+      "Certification number/code",
+      "Issuing organization name",
+      "Website for verification",
+      "Expiration date (if applicable)",
+      "Scope of certification"
+    ],
+    "red_flags": [
+      "No certification number",
+      "Unverifiable organization",
+      "Vague scope",
+      "Generic logo",
+      "No expiration date on time-limited certs"
+    ]
+  }
+}
